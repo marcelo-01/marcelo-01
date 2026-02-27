@@ -1,7 +1,4 @@
-## Bom dia 👋
-
-## Sobre mim:
-Olá, me chamo Marcelo e estou começando a aprender programação agora :)
+Desenvolvedor Java
 
 ## Detalhes:
 
